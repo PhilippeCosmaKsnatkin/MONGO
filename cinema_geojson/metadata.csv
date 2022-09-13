@@ -1,0 +1,2 @@
+COLL_NOM;COLL_SIRET;ID;TITRE;DESCRIPTION;THEME;PRODUCTEUR_NOM;PRODUCTEUR_SIRET;COUV_SPAT_MAILLE;COUV_SPAT_NOM;COUV_TEMP_DEBUT;COUV_TEMP_FIN;DATE_PUBL;FREQ_MAJ;DATE_MAJ;MOTS_CLES;LICENCE;NOMBRE_RESSOURCES;FORMAT_RESSOURCES;URL
+France;FR;osm-cinema-FR;Cinéma de France (OpenStreetMap);"Salles de cinéma issues d'OpenStreetMap (amenity=cinema)";Culture;OpenStreetMap;;Infracommunale;France;2008-01-01;2021-10-13;;Ponctuelle;2021-10-13;"scdl;culture;cinema;salles";Open Database License-ODBL;1;geojson;https://geodatamine.fr/dump/cinema_geojson.zip
